@@ -41,8 +41,7 @@ I built this web page using mobile first workflow , only to perceive the card it
 ### Feedback
 
 
-I am not sure of the best way of approaching the background images in this case.I attempted to use vw units to make it responsive but this seems to be not correct 
-as screen size changes it will not react as I expected.Any suggestion would be appreciated here.
+I am not sure of the best way of approaching the background images in this case. I attempted to use VW units to make it responsive, but this seems to be not correct as the screen size changes it will not react as I expected. Any suggestion would be appreciated here.
  
 
 ### Built with
